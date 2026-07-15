@@ -234,10 +234,6 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* ==========================
-   Tablets
-========================== */
-
 @media (max-width: 768px) {
 
     header {
@@ -254,10 +250,6 @@ footer a:hover {
         columns: 1;
     }
 }
-
-/* ==========================
-   Celulares
-========================== */
 
 @media (max-width: 600px) {
 
@@ -317,10 +309,6 @@ footer a:hover {
         font-size: .9rem;
     }
 }
-
-/* ==========================
-   Android antigo (320px)
-========================== */
 
 @media (max-width: 360px) {
 
